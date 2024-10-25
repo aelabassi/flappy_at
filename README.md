@@ -3,8 +3,11 @@ I started learning Rust by building simple games, begenning with this simple con
 ##  Compile
 ### Option 1:
 If you have rust installed, you just run: ```cargo run ``` in the source directory
-or run the executable--look in targey/debug-- ``` ./flappy ````
+### Option 2
+Run the executable--look in targey/debug. ``` ./flappy ```
 # Demo
-[!Demo](./assets/flappy.gif)
+<p align="center">
+    <img src="assets/flappy.gif" width=600 alt="Demo">
+</p>
 
 ## EL Abassi Abderrazaq 
