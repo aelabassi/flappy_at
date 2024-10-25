@@ -9,5 +9,6 @@ Run the executable--look in targey/debug. ``` ./flappy ```
 <p align="center">
     <img src="assets/flappy.gif" width=600 alt="Demo">
 </p>
+![Demo](https://github.com/aelabassi/flappy_at/raw/main/assets/flappy.gif)
 
 ## EL Abassi Abderrazaq 
