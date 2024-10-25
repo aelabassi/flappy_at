@@ -4,11 +4,10 @@ I started learning Rust by building simple games, begenning with this simple con
 ### Option 1:
 If you have rust installed, you just run: ```cargo run ``` in the source directory
 ### Option 2
-Run the executable--look in targey/debug. ``` ./flappy ```
+Run the executable--look in target/debug. ``` ./flappy ```
 # Demo
 <p align="center">
     <img src="assets/flappy.gif" width=600 alt="Demo">
 </p>
-![Demo](https://github.com/aelabassi/flappy_at/raw/main/assets/flappy.gif)
 
 ## EL Abassi Abderrazaq 
